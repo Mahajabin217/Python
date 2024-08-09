@@ -1,4 +1,4 @@
-# How List items can be accessed:
+# How List operations can be performed:
 
 List = ["a", "b", "c"]
 print(List)
