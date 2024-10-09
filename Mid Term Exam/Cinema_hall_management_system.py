@@ -96,7 +96,7 @@ def cinema():
             except ValueError:
                 print("ENTER A VALID TICKET NUMBER")
                 continue 
-            
+
             tickets = []
             for i in range(tickets_number):
                 print()
